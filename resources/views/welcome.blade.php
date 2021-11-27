@@ -81,6 +81,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                                    I added this text on 28 November 2021 to test if I still remember how to bring changes to my site on HostOnHeroku using github pipline!!
                                     HostOnHerokuGBC News is a community driven portal and newsletter aggregating all of the latest and most important news in the HostOnHerokuGBC ecosystem, including new package releases and tutorials.
                                 </div>
                             </div>
